@@ -13,4 +13,5 @@
 LSTM模型我採用1000個hidden_size, 6層, 訓練40個epoch
 
 ## 預測結果:
-![alt text](ntustEEMachineLearningCourse/finalReport/image/Visualized predict result.png)
+<img width="312" alt="Visualized predict result" src="https://github.com/Welonbai/ntustEEMachineLearningCourse/assets/62245152/1bc0c836-655d-4f11-bc07-78933d654f0c">
+
