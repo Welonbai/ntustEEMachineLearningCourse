@@ -1,4 +1,4 @@
-# 臺科大電機所機器學習期末專案
+ # 臺科大電機所機器學習期末專案
 
 ## 以pytorch套件實作LSTM模型進行時序性天氣資料預測
 
@@ -13,4 +13,4 @@
 LSTM模型我採用1000個hidden_size, 6層, 訓練40個epoch
 
 ## 預測結果:
-![alt text](https://ibb.co/C8tmHKW)
+![alt text]
