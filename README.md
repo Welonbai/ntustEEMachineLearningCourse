@@ -18,4 +18,3 @@ LSTM模型我採用1000個hidden_size, 6層, 訓練40個epoch
 <img width="381" alt="trainingAndTestingLoss" src="https://github.com/Welonbai/ntustEEMachineLearningCourse/assets/62245152/5d20bf14-d2e5-404a-b32f-db07d22aee36">
 <img width="763" alt="mseAndMae" src="https://github.com/Welonbai/ntustEEMachineLearningCourse/assets/62245152/f29462e3-d38f-4de4-8d2e-f957d33ee7fb">
 
->>>>>>> 4762743b81b0f1297dcc42e8ff9187091a9fcfd2
