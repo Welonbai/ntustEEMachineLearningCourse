@@ -2,9 +2,9 @@
 
 ## 使用相關技術:
 語言:  
-Python
+Python  
 套件:  
-Pytorch, numpy, matplotlib
+Pytorch, numpy, matplotlib  
 
 ## 資料集:
 [Markdown Live Preview]([https://markdownlivepreview.com/](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
