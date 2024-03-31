@@ -7,7 +7,7 @@ Python
 Pytorch, numpy, matplotlib  
 
 ## 資料集:
-[Markdown Live Preview]([https://markdownlivepreview.com/](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
+([https://markdownlivepreview.com/](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
 資料集包含印度新德里自2013/1/1~2017/4/24之天氣資料, 共有四項參數: meantemp, humidity, wind_speed, meanpressure
 此次預測只取meantemp做預測
 
